@@ -1,0 +1,31 @@
+{
+  "alunos": [
+    {
+      "id": 7,
+      "nome": "gemini cara de bunda",
+      "email": "gemini@gmail.com",
+      "cpf": "123.456.789-11",
+      "telefone": "(62)992885275",
+      "endereco": "123",
+      "curso": "Ciencia da Computação"
+    },
+    {
+      "id": 8,
+      "nome": "ana banana",
+      "email": "anabanana@gmail.com",
+      "cpf": "987.654.321-00",
+      "telefone": "(62)988456724",
+      "endereco": "345",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 9,
+      "nome": "karol com k",
+      "email": "karolcomk@gmail.com",
+      "curso": "Ciencia da Computação",
+      "cpf": "999.888.777-66",
+      "telefone": "(62)91887725",
+      "endereco": "777-666"
+    }
+  ]
+}
